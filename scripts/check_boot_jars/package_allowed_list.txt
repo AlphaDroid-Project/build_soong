@@ -261,6 +261,12 @@ com\.google\.i18n\.phonenumbers
 org\.chromium\.arc
 org\.chromium\.arc\..*
 
+# Lineage adds
+lineage\..*
+lineageos\..*
+org\.lineageos\..*
+vendor\.lineage\..*
+
 # LMODroid adds
 com\.libremobileos\..*
 
