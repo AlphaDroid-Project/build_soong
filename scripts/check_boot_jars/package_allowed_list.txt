@@ -269,9 +269,6 @@ org\.chromium\.arc\..*
 com\.google\.wear
 com\.google\.wear\..*
 
-# Lineage adds
-lineageos\.platform
-org\.lineageos\.platform\.internal
 
 # LMODroid adds
 com\.libremobileos\..*
