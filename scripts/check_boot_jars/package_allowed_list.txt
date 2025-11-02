@@ -266,6 +266,11 @@ org\.chromium\.arc\..*
 com\.google\.wear
 com\.google\.wear\..*
 
+# Lineage adds
+lineage\..*
+lineageos\..*
+org\.lineageos\..*
+vendor\.lineage\..*
 
 # LMODroid adds
 com\.libremobileos\..*
