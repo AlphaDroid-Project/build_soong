@@ -301,6 +301,8 @@ oplus\..*
 vendor\.oplus\..*
 com\.oneplus\..*
 vendor\.oneplus\..*
+com\.color\.inner\..*
+android\.os\.oplusdevicepolicy\..*
 
 # QC adds
 com.qualcomm.qti
