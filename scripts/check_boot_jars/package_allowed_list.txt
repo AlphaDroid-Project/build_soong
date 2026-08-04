@@ -324,3 +324,9 @@ com.camera.camera2.extensions.*
 ###################################################
 # Xiaomi Extensions
 com.xiaomi.extensions.*
+com.xiaomi.ims.*
+
+###################################################
+# Mediatek
+mediatek.telecom.*
+mediatek.telephony.*
